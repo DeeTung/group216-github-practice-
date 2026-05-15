@@ -27,7 +27,7 @@ Project mẫu của nhóm là chương trình **Quản lý sinh viên**.
 |---|---|---|---|---|
 | 1 | Lê Tấn Vĩ | 24521985 | papylovevip1@gmail.com | feature-add-student |
 | 2 | Nguyễn Đinh Tùng | 24521949 | 24521949@gm.uit.edu.vn | feature-show-student |
-| 3 | Hoàng Khôi Nguyên | 24521176 | example3@student.edu.vn | feature-search-student |
+| 3 | Hoàng Khôi Nguyên | 24521176 | 	24521176@gm.uit.edu.vn | feature-search-student |
 | 4 | Dương Thúy Quỳnh | 24521507 | duongthuyquynh207@gmail.com | feature-search-student |
 
 ## 3. Chức năng chương trình
