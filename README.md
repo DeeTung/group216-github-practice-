@@ -23,7 +23,7 @@ Project mẫu của nhóm là chương trình **Quản lý sinh viên**.
 | STT | Họ và tên | MSSV | Email GitHub | Branch phụ trách |
 |---|---|---|---|---|
 | 1 | Lê Tấn Vĩ | 24521985 | papylovevip1@gmail.com | feature-add-student |
-| 2 | Nguyễn Đinh Tùng | 24521949 | example2@student.edu.vn | feature-show-student |
+| 2 | Nguyễn Đinh Tùng | 24521949 | 24521949@gm.uit.edu.vn | feature-show-student |
 | 3 | Hoàng Khôi Nguyên | 24521176 | example3@student.edu.vn | feature-search-student |
 | 4 | Dương Thúy Quỳnh | 24521507 | feature-search-student |
 
