@@ -7,3 +7,12 @@ def add_student(student_id, name, age):
         "age": age
     }
     students.append(student)
+
+def show_students():
+    if not students:
+        print("Danh sach sinh vien rong.")
+        return
+
+    print("\nDanh sach sinh vien:")
+    for student in students:
+        print(f"ID: {student['id']} | Ten: {student['name']} | Tuoi: {student['age']}")
