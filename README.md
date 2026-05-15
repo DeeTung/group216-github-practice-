@@ -1,4 +1,7 @@
-# groupX-github-practice
+# group216-github-practice
+# Group GitHub Practice
+
+Thanh vien B cap nhat README.
 
 ## 1. Giới thiệu project
 
