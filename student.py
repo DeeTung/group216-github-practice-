@@ -16,3 +16,14 @@ def show_students():
     print("\nDanh sach sinh vien:")
     for student in students:
         print(f"ID: {student['id']} | Ten: {student['name']} | Tuoi: {student['age']}")
+
+def search_student(keyword):
+    found = False
+
+    for student in students:
+        if keyword.lower() in student["name"].lower() or keyword == student["id"]:
+            print(f"ID: {student['id']} | Ten: {student['name']} | Tuoi: {student['age']}")
+            found = True
+
+    if not found:
+        print("Khong tim thay sinh vien.")
