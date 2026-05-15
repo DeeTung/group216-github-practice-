@@ -1,7 +1,7 @@
 # group216-github-practice
 # Group GitHub Practice
 
-Thanh vien B cap nhat README.
+Thanh vien A va thanh vien B cung cap nhat README.
 
 ## 1. Giới thiệu project
 
