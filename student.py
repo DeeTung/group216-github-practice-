@@ -16,3 +16,5 @@ def show_students():
     print("\nDanh sach sinh vien:")
     for student in students:
         print(f"ID: {student['id']} | Ten: {student['name']} | Tuoi: {student['age']}")
+
+# ==== Check ==== #
