@@ -5,7 +5,7 @@ Thanh vien A va thanh vien B cung cap nhat README.
 
 ## 1. Giới thiệu project
 
-Đây là repository thực hành Git & GitHub của nhóm X.
+Đây là repository thực hành Git & GitHub của nhóm 216.
 
 Project được xây dựng bằng ngôn ngữ Python với mục tiêu thực hành quy trình làm việc nhóm trên GitHub, bao gồm:
 
