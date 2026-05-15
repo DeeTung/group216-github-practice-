@@ -17,6 +17,7 @@ def show_students():
     for student in students:
         print(f"ID: {student['id']} | Ten: {student['name']} | Tuoi: {student['age']}")
 
+# ==== search ==== #
 def search_student(keyword):
     found = False
 
